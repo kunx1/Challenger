@@ -1,0 +1,10 @@
+.home-container{
+
+    position: relative;
+}
+
+.logout{
+
+    position: absolute;
+    margin-left: 800px;
+}
